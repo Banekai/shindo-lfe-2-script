@@ -365,7 +365,8 @@ function Notify(title, text, duration)
     lbl.Size = UDim2.new(1, -10, 1, -10)
     lbl.Position = UDim2.new(0, 5, 0, 5)
     lbl.BackgroundTransparent = true
-    lbl.Text = title .. "\n" .. text
+    lbl.Text = title .. "
+" .. text
     lbl.TextColor3 = Color3.fromRGB(255, 255, 255)
     lbl.Font = Enum.Font.Gotham
     lbl.TextSize = 14
