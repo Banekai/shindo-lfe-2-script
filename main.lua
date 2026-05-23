@@ -1,4 +1,3 @@
-```lua
 --[[
    Script: Moises mando oi
    Desc: Premium hub for Shindo Life 2
@@ -414,4 +413,3 @@ UserInputService.InputBegan:Connect(function(input, processed)
 end)
 
 print("Moises mando oi - Premium Hub Activated")
-```
